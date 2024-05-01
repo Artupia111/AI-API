@@ -1,0 +1,5 @@
+transformers
+fastapi
+flax
+tensorflow
+torch
